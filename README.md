@@ -11,10 +11,13 @@ This portfolio highlights my expertise in data analysis, visualization, and stor
 
 📈 Skills & Tools
 
-  Programming: Python (Pandas, NumPy, Matplotlib, Seaborn)
-  Databases: SQL (MySQL)
-  Data Visualization: Power BI
-  Spreadsheets: Microsoft Excel (Pivot Tables, Power Query)
+Programming: Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+Databases: SQL (MySQL)
+
+Data Visualization: Power BI
+
+Spreadsheets: Microsoft Excel (Pivot Tables, Power Query)
 
 Statistics & Analytics: Data Cleaning, Exploratory Data Analysis (EDA), Business Intelligence
 
