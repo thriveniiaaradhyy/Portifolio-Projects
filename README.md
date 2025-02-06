@@ -4,7 +4,7 @@ A showcase of my Data Analysis projects, skills, and experience using SQL, Pytho
 
 🔗 Portfolio Website: yourportfolio.com 
 
-🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/thriveniiaaradhyy/)
+🔗 LinkedIn: [Thriveni V](https://www.linkedin.com/in/thriveniiaaradhyy/)
 
 
 📖 About
