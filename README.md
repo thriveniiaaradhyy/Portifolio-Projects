@@ -1,4 +1,5 @@
 📊 Data Analyst Portfolio – Thriveni V
+
 A showcase of my Data Analysis projects, skills, and experience using SQL, Python, Power BI, and Excel.
 
 🔗 Portfolio Website: yourportfolio.com
