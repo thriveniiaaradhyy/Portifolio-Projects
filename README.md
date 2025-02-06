@@ -41,7 +41,7 @@ git clone https://github.com/thriveniiaaradhyy/Portifolio-Projects.git
 
 # Navigate to the project folder
 
-for covid Project
+👉for covid Project 
 cd Covid Portifolio Project - SQL
 
 # Install required Python libraries
