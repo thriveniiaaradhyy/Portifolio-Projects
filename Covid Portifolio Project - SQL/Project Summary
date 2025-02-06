@@ -1,0 +1,11 @@
+Summary of COVID-19 Data Exploration Using SQL
+
+This project focuses on exploring global COVID-19 data through SQL, with a deep dive into infection rates, mortality trends, and vaccination progress across various countries. By utilizing SQL queries, we extracted key insights from a comprehensive dataset containing case numbers, death counts, population data, and vaccination information. The following analyses were conducted:
+
+Key Analyses Conducted:
+🔹 Infection Rate Analysis: Identified countries with the highest infection rates relative to their population.
+🔹 Mortality Trends: Calculated case fatality rates (CFR) to determine regions with the highest mortality.
+🔹 Vaccination Progress Tracking: Analyzed cumulative vaccination trends over time and their impact on infection spread.
+🔹 Data Insights & Techniques: Used aggregation, filtering, sorting, and window functions to identify key patterns in the data.
+
+Additionally, this project incorporates CTEs, views, subqueries, and temporary tables to optimize query performance and enhance data analysis. The findings highlight the power of SQL in handling large-scale health data, providing meaningful insights to support public health decisions.
