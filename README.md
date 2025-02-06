@@ -28,10 +28,10 @@ Statistics & Analytics: Data Cleaning, Exploratory Data Analysis (EDA), Business
 
 | Project Name               | Description                                      | Tools Used                 | Link |
 |----------------------------|--------------------------------------------------|----------------------------|------|
-| **Sales Data Analysis**    | Analyzed company sales trends and customer behavior | SQL, Power BI              | [View Project](#) |
-| **Customer Churn Prediction** | Built a predictive model to identify customers likely to churn | Python (Pandas, Scikit-Learn) | [View Project](#) |
-| **Market Basket Analysis** | Uncovered customer purchasing patterns         | SQL, Excel                 | [View Project](#) |
-| **HR Analytics Dashboard** | Created a Power BI dashboard for employee insights | Power BI, SQL               | [View Project](#) |
+| **Sales Data Analysis**    | Analyzed company sales trends and customer behavior | Power BI              | [View Project](https://github.com/thriveniiaaradhyy/Portifolio-Projects/tree/main/Sales%20Data%20Analysis%20-%20Power%20BI) |
+| **Bike Sales Dashboard** | Analyzed bike sales trends and customer behavior  | Excel | [View Project](https://github.com/thriveniiaaradhyy/Portifolio-Projects/tree/main/Bike%20Sales%20Analysis%20-%20Excel) |
+| **Covid Data Analysis** | Covid data exploration and key analysis         | SQL                 | [View Project](https://github.com/thriveniiaaradhyy/Portifolio-Projects/tree/main/Covid%20Portifolio%20Project%20-%20SQL) |
+| **Data Professtional Survey Analysis** | Created a Power BI dashboard for data professtional survey insights | Power BI               | [View Project]([#](https://github.com/thriveniiaaradhyy/Portifolio-Projects/tree/main/Data%20Professional%20Survey%20Report%20-%20Power%20BI)) |
 
 👉 **More Projects:** [Check here](#)
 
