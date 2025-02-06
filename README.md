@@ -10,10 +10,12 @@ A showcase of my Data Analysis projects, skills, and experience using SQL, Pytho
 This portfolio highlights my expertise in data analysis, visualization, and storytelling through real-world projects. I use tools like SQL, Python, Power BI, and Excel to extract insights and drive data-driven decisions.
 
 📈 Skills & Tools
-Programming: Python (Pandas, NumPy, Matplotlib, Seaborn)
-Databases: SQL (MySQL)
-Data Visualization: Power BI
-Spreadsheets: Microsoft Excel (Pivot Tables, Power Query)
+
+  Programming: Python (Pandas, NumPy, Matplotlib, Seaborn)
+  Databases: SQL (MySQL)
+  Data Visualization: Power BI
+  Spreadsheets: Microsoft Excel (Pivot Tables, Power Query)
+
 Statistics & Analytics: Data Cleaning, Exploratory Data Analysis (EDA), Business Intelligence
 
 ## 🏆 Featured Projects  
