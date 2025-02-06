@@ -6,8 +6,10 @@ A showcase of my Data Analysis projects, skills, and experience using SQL, Pytho
 
 🔗 LinkedIn: Your LinkedIn
 
+
 📖 About
 This portfolio highlights my expertise in data analysis, visualization, and storytelling through real-world projects. I use tools like SQL, Python, Power BI, and Excel to extract insights and drive data-driven decisions.
+
 
 📈 Skills & Tools
 
@@ -20,6 +22,7 @@ Data Visualization: Power BI
 Spreadsheets: Microsoft Excel (Pivot Tables, Power Query)
 
 Statistics & Analytics: Data Cleaning, Exploratory Data Analysis (EDA), Business Intelligence
+
 
 ## 🏆 Featured Projects  
 
@@ -35,6 +38,7 @@ Statistics & Analytics: Data Cleaning, Exploratory Data Analysis (EDA), Business
 
 📊 Dashboards & Visuals
 Include screenshots of Power BI dashboards, Excel charts, or Python visualizations.
+
 
 ⚡ How to Use This Portfolio
 If you want to explore the projects locally:
