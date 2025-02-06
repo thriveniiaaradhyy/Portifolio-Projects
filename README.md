@@ -40,7 +40,9 @@ Edit
 git clone https://github.com/thriveniiaaradhyy/Portifolio-Projects.git
 
 # Navigate to the project folder
-cd data-analytics-portfolio
+
+for covid Project
+cd Covid Portifolio Project - SQL
 
 # Install required Python libraries
 pip install pandas numpy matplotlib seaborn jupyter
