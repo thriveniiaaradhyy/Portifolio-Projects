@@ -3,6 +3,7 @@
 A showcase of my Data Analysis projects, skills, and experience using SQL, Python, Power BI, and Excel.
 
 🔗 Portfolio Website: yourportfolio.com 
+
 🔗 LinkedIn: Your LinkedIn
 
 📖 About
