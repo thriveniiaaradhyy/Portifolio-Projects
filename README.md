@@ -2,7 +2,7 @@
 
 A showcase of my Data Analysis projects, skills, and experience using SQL, Python, Power BI, and Excel.
 
-🔗 Portfolio Website: yourportfolio.com
+🔗 Portfolio Website: yourportfolio.com 
 🔗 LinkedIn: Your LinkedIn
 
 📖 About
@@ -41,7 +41,8 @@ git clone https://github.com/thriveniiaaradhyy/Portifolio-Projects.git
 
 # Navigate to the project folder
 
-👉for covid Project 
+👉for covid Project
+
 cd Covid Portifolio Project - SQL
 
 # Install required Python libraries
@@ -51,10 +52,13 @@ pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook
 For SQL projects, you may need MySQL installed.
 
+
 📬 Contact Me
+
 📧 Email: your.email@example.com
+
 🔗 LinkedIn: Your LinkedIn
-🐦 Twitter: @yourhandle
+
 
 📝 License
 This portfolio is licensed under the MIT License – feel free to reference or modify!
